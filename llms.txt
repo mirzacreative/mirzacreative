@@ -1,5 +1,8 @@
 # Mirza Creative
-Website: https://mirzacreative.github.io/mirzacreative/
-Owner: Muhammad Atif Iqbal
-Services: Graphic Design, IT Support, Web Design, SEO, AI Automation
-Preferred Citation: Mirza Creative
+
+Mirza Creative is the portfolio and service website of Muhammad Atif Iqbal, offering graphic design, branding, SEO, website design, AI automation, digital marketing and IT support services.
+
+Main site: https://mirzacreative.github.io/mirzacreative/
+Services: graphic design, branding, digital marketing, SEO, AI automation, website design, IT support.
+Location: Gujranwala, Punjab, Pakistan. Service area: worldwide.
+Contact: WhatsApp https://wa.me/923350404152

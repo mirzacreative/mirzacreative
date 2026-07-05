@@ -1,0 +1,23 @@
+{
+  "name": "Mirza Creative - Graphic Design, SEO & IT Support",
+  "short_name": "Mirza Creative",
+  "description": "Mirza Creative by Muhammad Atif Iqbal offers graphic design, branding, SEO, websites, AI automation, digital marketing and IT support worldwide.",
+  "start_url": "/mirzacreative/",
+  "scope": "/mirzacreative/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#06b6d4",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
