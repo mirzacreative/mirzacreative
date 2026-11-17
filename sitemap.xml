@@ -228,4 +228,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <url> <loc>https://mirzacreative.github.io/mirzacreative/custom-tarot-deck-illustration.html</loc> <lastmod>2026-10-17</lastmod> <changefreq>monthly</changefreq> <priority>0.8</priority> </url>   <url> <loc>https://mirzacreative.github.io/mirzacreative/blog-post-34.html</loc> <lastmod>2026-11-13</lastmod> <changefreq>monthly</changefreq> <priority>0.85</priority> </url> <url> <loc>https://mirzacreative.github.io/mirzacreative/blog-post-35.html</loc> <lastmod>2026-11-14</lastmod> <changefreq>monthly</changefreq> <priority>0.85</priority> </url> </urlset>
+  <url> <loc>https://mirzacreative.github.io/mirzacreative/custom-tarot-deck-illustration.html</loc> <lastmod>2026-10-17</lastmod> <changefreq>monthly</changefreq> <priority>0.8</priority> </url>   <url> <loc>https://mirzacreative.github.io/mirzacreative/blog-post-34.html</loc> <lastmod>2026-11-13</lastmod> <changefreq>monthly</changefreq> <priority>0.85</priority> </url> <url> <loc>https://mirzacreative.github.io/mirzacreative/blog-post-35.html</loc> <lastmod>2026-11-14</lastmod> <changefreq>monthly</changefreq> <priority>0.85</priority> </url> 
+<url>
+  <loc>https://mirzacreative.github.io/mirzacreative/blog-post-36.html</loc>
+  <lastmod>2026-11-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://mirzacreative.github.io/mirzacreative/blog-post-37.html</loc>
+  <lastmod>2026-11-17</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+</urlset>
